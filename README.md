@@ -1,4 +1,3 @@
-This is a game where you have to guess a number that is randomly selected.
-If the number is big or small, it tells you whether the number is big or small.
-If your number is the same as the random number.
-You win and it shows you the number of times you have tried to guess the number.
+این یک بازی هست که در آن باید عددی که کامپیوتر به صورت تصادفی انتخاب کرده است راحدس بزنید.
+اگر عدد بزرگ یا کوچک باشد، به شما می‌گوید که عدد بزرگ است یا کوچک.
+در صورت این که عدد را درست حدث بزنید! برنده میشید و تعداد تلاش هایی که کردید رو به شما نمایش میدهد.
